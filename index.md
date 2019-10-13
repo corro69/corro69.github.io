@@ -11,6 +11,9 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
+<img src="Screenshot-MyPy_Dodge.png"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" />
 - Bulleted
 - List
 
