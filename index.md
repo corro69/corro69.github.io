@@ -55,7 +55,7 @@ main_loop()
 pygame.quit()
 quit
 ```
-## [MassConceptZ.com](35.192.182.90)    
+## [MassConceptZ.com](www.maxxconceptz.com)    
 ## [GitHub](https://github.com/corro69)
 
 ### Support or Contact
