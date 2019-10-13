@@ -49,6 +49,7 @@ while True:
         TextSurf, TextRect = text_objects("Hello World", largeText)
         TextRect.center = ((display_width/2),(display_height/3))
 	gameDisplay.blit(TextSurf, TextRect)
+	
 	print("Hello World")
 
         
