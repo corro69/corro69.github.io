@@ -4,7 +4,7 @@ Hello. Thank you for visting my Github pages. You've come to the right place to 
 Any feedback is appreciated.
 
 ![MyPy](Screenshot-MyPy_Dodge.png) [GitHub/MyPy_Dodge](https://github.com/corro69/MyPy)  
-![Spaced_Invaders](Screenshot-Spaced_invaders.png) [GitHub/Spaced_Invaders](https://github.com/corro69/Spaced_invaders)
+![Spaced_Invaders](Screenshot-Spaced_Invaders.png) [GitHub/Spaced_Invaders](https://github.com/corro69/Spaced_invaders)
 
 ```markdown
 Syntax highlighted code block
