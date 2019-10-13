@@ -58,23 +58,6 @@ quit
 ## [MassConceptZ.com](http://35.192.182.90)    
 ## [GitHub](https://github.com/corro69)
 
-<div class="alignleft">
-     <script type="text/javascript">
-       	amzn_assoc_ad_type = "banner";
-	amzn_assoc_marketplace = "amazon";
-	amzn_assoc_region = "US";
-	amzn_assoc_placement = "assoc_banner_placement_default";
-	amzn_assoc_campaigns = "amzn_tab_mk_l";
-	amzn_assoc_banner_type = "promotions";
-	amzn_assoc_p = "12";
-	amzn_assoc_banner_id = "1TET8YMYBMR0AQ74TRG2";
-	amzn_assoc_width = "300";
-	amzn_assoc_height = "250";
-	amzn_assoc_tracking_id = "massconceptz-20";
-	amzn_assoc_linkid = "99c7e1cba94a0d9659cfedcc027187f5";
-     </script>
-     <script src="//z-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&Operation=GetScript&ID=OneJS&WS=1"></script>
-    </div>
 
 ### Support or Contact
 <dustin.brooks@massconceptz.com>  
