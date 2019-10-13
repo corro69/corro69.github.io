@@ -1,12 +1,10 @@
 ## Welcome to my GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/corro69/corro69.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Hello, my name is Dustin.
+    Thank you for visting my Github pages. You've come to the right place to download some of the Python projects that I've been working on. I would like to hear from you so please, feel free to send me a message to let me know what you think of my projects.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
