@@ -12,7 +12,6 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-![MyPy](Screenshot-MyPy_Dodge.png)
 
 - Bulleted
 - List
