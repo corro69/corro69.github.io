@@ -5,7 +5,7 @@ Any feedback is appreciated.
 
 ![MyPy](Screenshot-MyPy_Dodge.png) [GitHub/MyPy_Dodge](https://github.com/corro69/MyPy)  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ![Spaced_Invaders](Screenshot-Spaced_Invaders.png) [GitHub/Spaced_Invaders](https://github.com/corro69/Spaced_invaders)
 
-```markdown
+```python
 import pygame
 pygame.init()
 
