@@ -42,8 +42,7 @@ button2 = pygame.image.load("button2.png")
 def text_objects(text, font):
     textSurface = font.render(text, True, red)
     return textSurface, textSurface.get_rect()
-
-
+    
 while True:
 	largeText = pygame.font.Font('SnackerComic.ttf',115)
         TextSurf, TextRect = text_objects("Hello World", largeText)
@@ -51,8 +50,7 @@ while True:
 	gameDisplay.blit(TextSurf, TextRect)
 	
 	print("Hello World")
-
-        
+      
 main_loop()
 pygame.quit()
 quit
