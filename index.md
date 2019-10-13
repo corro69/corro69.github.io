@@ -12,9 +12,6 @@ pygame.init()
 display_width = 800
 display_height = 800
 
-HW,HH = display_width / 2, display_height / 2
-AREA = display_width * display_height
-
 white = (255,255,255)
 black = (0,0,0,)
 red = (255,0,0)
@@ -48,6 +45,10 @@ def text_objects(text, font):
 
 
 while True:
+	largeText = pygame.font.Font('SnackerComic.ttf',115)
+        TextSurf, TextRect = text_objects("Hello World", largeText)
+        TextRect.center = ((display_width/2),(display_height/3))
+	gameDisplay.blit(TextSurf, TextRect)
 	print("Hello World")
 
         
