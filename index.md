@@ -55,7 +55,7 @@ while True:
       
 main_loop()
 pygame.quit()
-quit
+quit()
 ```
 
 ## [Pygame.org](https://www.pygame.org/members/projects)
