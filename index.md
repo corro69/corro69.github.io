@@ -60,7 +60,7 @@ quit()
 
 ## [Pygame.org](https://www.pygame.org/members/projects)
 
-## [MassConceptZ.com](http://35.192.182.90)    
+## [MassConceptZ.com](https://massconcetpz.com)    
 ## [GitHub](https://github.com/corro69)
 ## [AMAZON.com affiliate link](https://www.amazon.com/gp/video/storefront/ref=as_li_ss_tl?node=2858778011&linkCode=ll2&tag=massconceptz-20&linkId=55a86a6b9c6929a2d3625cbe55abc19b&language=en_US)
 
